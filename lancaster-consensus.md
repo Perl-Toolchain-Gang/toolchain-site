@@ -328,7 +328,7 @@ had about 20 people.  Thank you to the following participants:
 
 Andreas König, Barbie, Breno Oliveira, Chris Williams, Christian Walde,
 David Golden, Daniel Perrett, Gordon Banner, H. Merijn Brand, James
-Mastros, Jens Rehsack, Jess Robinson, Joakim Tormoen, Kenichi Ishigaki,
+Mastros, Jens Rehsack, Jess Robinson, Joakim Tørmoen, Kenichi Ishigaki,
 Leon Timmermans, Liz Mattijsen, Matthew Horsfall, Michael Schwern, Olivier
 Mengué, Paul Johnson, Peter Rabbitson, Philippe Bruhat, Piers Cawley,
 Ricardo Signes, Salve J. Nilsen and Wendy van Dijk
