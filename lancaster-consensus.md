@@ -79,11 +79,15 @@ Distribution authors should now follow these semantics:
   release.  CPAN clients must not set this variable.  Distribution
   packagers (ppm, deb, rpm, etc.) should not set this variable.
 
-There are already two libraries on CPAN to make it easier to set these
+There are already two libraries on CPAN to make it easier to test these
 variable correctly:
 
 * [Test::Is](http://p3rl.org/Test::Is)
 * [Test::DescribeMe](http://p3rl.org/Test::DescribeMe)
+
+These variables must be set for all phases of configuration and testing,
+including running Makefile.PL or Build.PL and subsequent build and test
+phases.
 
 CPAN smokers and integration testers must indicate automated,
 non-interactive testing and may request extended testing, depending on
