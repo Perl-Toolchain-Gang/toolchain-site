@@ -98,7 +98,7 @@ Any author's first upload is, by definition, way downriver.  Brand new CPAN
 authors should read a good "how to" for CPAN authorship, such as
 the "About PAUSE" pages and "perldoc perlnewmod".
 
-downriver distributions should be "well-formed", following many of the
+Downriver distributions should be "well-formed", following many of the
 basic ["Kwalitee" rules](http://cpants.cpanauthors.org/kwalitee) described
 on CPANTS.  They should have documentation (ideally spell-checked), a "t/"
 directory with tests (that are run before shipping, e.g. with "make
@@ -430,12 +430,12 @@ using as a `<=` relation.  E.g. in YAML format:
     x_breaks:
         Foo::Bar: <= 1.23
 
-When `x_breaks` is found in META, after successful installation, CPAN
-clients should check if any of the modules listed in `x_breaks` are
+When `x_breaks` is found in MYMETA or META, after successful installation,
+CPAN clients should check if any of the modules listed in `x_breaks` are
 installed and if their `$VERSION` matches the version range.  If so, and if
 the latest version on CPAN does *not* match the `x_breaks` version range,
-then the CPAN client should install the latest version of that module
-from CPAN
+then the CPAN client should install the latest version of that module from
+CPAN
 
 CPAN clients may warn about unsatisfiable `x_breaks` before or after
 installing a module, may prompt before installing `x_breaks`, etc.,
