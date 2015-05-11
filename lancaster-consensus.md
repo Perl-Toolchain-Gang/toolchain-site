@@ -339,3 +339,9 @@ Ricardo Signes, Salve J. Nilsen and Wendy van Dijk
 
 (Apologies to anyone present who was left off the list.  Email dagolden at
 cpan dot org or send a pull request to be added.)
+
+## Copyright and License
+
+This document is Copyright 2013 by David A. Golden and contributors.  You
+can redistribute it and/or modify it under the same terms as the Perl 5
+programming language system itself.
