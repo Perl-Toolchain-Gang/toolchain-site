@@ -261,7 +261,7 @@ base, but same API) and alternative replacements (new code, with new API).
 
 Before considering a fork, authors should talk to the current maintainer(s)
 about their concerns, ideally in a public forum so that concerns and
-responses are are the record.
+responses are the record.
 
 Authors should also consult interested parties, such as other authors with
 similar concerns (e.g. authors of other distributions who also depend on
