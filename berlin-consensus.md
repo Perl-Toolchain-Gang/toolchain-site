@@ -181,7 +181,7 @@ to identify and fix broken releases.
 
 Before releasing a stable, indexed version to CPAN, authors should release
 a non-indexed, developer release to CPAN and monitor the [CPAN Testers
-Matrix](http://matrix.cpantesters.org/) results to unsure nothing is broken
+Matrix](http://matrix.cpantesters.org/) results to ensure that nothing is broken
 across major operating systems or versions of Perl. (N.B. typically 36 to 48
 hours is sufficient for good coverage.)
 
