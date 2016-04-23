@@ -1,6 +1,6 @@
 # The Lyon Compromise from the Perl QA Conference
 
-Adapted from https://gist.github.com/dagolden/9559280 to keep all the QA
+Adapted from <https://gist.github.com/dagolden/9559280> to keep all the QA
 conference decisions together.  Original gist was created by David Golden.
 
 This document summarizes broad decisions about rationalizing version object
