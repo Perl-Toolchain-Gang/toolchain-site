@@ -16,21 +16,25 @@ The [Lancaster Consensus](lancaster-consensus.md) wrote:
 
 We have revised this to:
 
-No new release distribution in the Perl toolchain will specifiy a minimum perl
-prerequisite version (whether configure, build, or test) that has not been
-available for at least ten years.
+No new release distribution in the Perl toolchain will specify a minimum perl
+prerequisite version (whether configure, build, runtime, or test) that has not
+been available for at least ten years.
 
-As a special one-time exception, the maximum perl requirement will not move
-past v5.16.0 until July 2024, when CentOS v7 leaves support, even though
-v5.16.0 was released more than 10 years ago today.
+As a special one-time exception, the minimum perl requirement on these
+distributions will not move past v5.16.0 until July 2024, when Red Hat
+Enterprise Linux and CentOS v7 leave their maintenance support phase, even
+though v5.16.0 was released more than 10 years ago today.
 
 The toolchain is generally understood, here, to include:
 * CPAN
+* CPAN-Meta
 * ExtUtils-CBuilder
 * ExtUtils-MakeMaker
 * Module-Build
+* Module-Metadata
 * Test-Harness
 * Test-Simple
+* version
 
 ...and their prerequisites.
 
