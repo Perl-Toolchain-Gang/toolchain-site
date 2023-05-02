@@ -4,7 +4,7 @@ The Oslo Consensus was Adam Kennedy's name for an agreement reached at
 the 2008 Oslo QA hackathon by the attending toolchain and QA maintainers.
 
 The original was published on use.perl.org:
-[The Oslo Consensus](http://use.perl.org/use.perl.org/_Alias/journal/36128.html)
+[The Oslo Consensus](http://web.archive.org/web/20120303092604/http://use.perl.org:80/~Alias/journal/36128)
 
 ## Context and Environment Variables
 
