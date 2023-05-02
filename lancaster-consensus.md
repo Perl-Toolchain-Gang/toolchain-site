@@ -17,7 +17,8 @@ to do the work.
 ### Minimum-supported Perl
 
 > 👉 This section is obsoleted by the [Lyon Amendment](lyon-amendment.md) to
-> the Lancaster Consensus.  See that document for more details.
+> the Lancaster Consensus.  This replaces 5.8 with "ten years of versions",
+> roughly.  See that document for more details.
 
 Going forward, the Perl toolchain will target Perl 5.8.1, released
 September 2003.  This will allow toolchain modules to reliably use PerlIO
