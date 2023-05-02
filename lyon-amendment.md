@@ -1,7 +1,5 @@
 # The Lyon Amendment to the Lancaster Consensus
 
-🚧 This document is a *Work in Progress* and may change this week.
-
 ## Minimum-support Perl
 
 The [Lancaster Consensus](lancaster-consensus.md) wrote:
