@@ -3,11 +3,11 @@
 At the first Perl QA Hackathon (QAH) in 2008 in Oslo, a number of QA and
 toolchain authors, maintainers and experts came together to agree on some
 common standards and practices.  This became known as
-["The Oslo Consensus"](https://github.com/Perl-Toolchain-Gang/toolchain-site/blob/master/oslo-consensus.md).
+["The Oslo Consensus"](oslo-consensus.md).
 
 At the 2013 QAH in Lancaster, a similar brain trust came together to
 address new issues requiring consensus.  This became known as
-["The Lancaster Consensus"](https://github.com/Perl-Toolchain-Gang/toolchain-site/blob/master/lancaster-consensus.md).
+["The Lancaster Consensus"](lancaster-consensus.md).
 
 At the 2015 QAH in Berlin, another group assembled to address new issues,
 with a particular focus on toolchain governance and recommended standards

@@ -3,7 +3,7 @@
 At the first Perl QA Hackathon in 2008 in Oslo, a number of QA and
 toolchain authors, maintainers and experts came together to agree on some
 common standards and practices.  This became known as
-["The Oslo Consensus"](https://github.com/Perl-Toolchain-Gang/toolchain-site/blob/master/oslo-consensus.md).
+["The Oslo Consensus"](oslo-consensus.md).
 
 Five years later, at the 2013 Perl QA Hackathon, a similar brain trust came
 together to address new issues requiring consensus.
