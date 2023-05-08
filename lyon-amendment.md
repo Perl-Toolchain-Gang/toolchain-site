@@ -14,8 +14,8 @@ The [Lancaster Consensus](lancaster-consensus.md) wrote:
 
 We have revised this to:
 
-No new release distribution in the Perl toolchain will specify a minimum perl
-prerequisite version (whether configure, build, runtime, or test) that has not
+New release distribution in the Perl toolchain will specify a minimum perl
+prerequisite version (whether configure, build, runtime, or test) that has
 been available for at least ten years.
 
 As a special one-time exception, the minimum perl requirement on these
