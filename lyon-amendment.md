@@ -14,9 +14,9 @@ The [Lancaster Consensus](lancaster-consensus.md) wrote:
 
 We have revised this to:
 
-New release distribution in the Perl toolchain will specify a minimum perl
-prerequisite version (whether configure, build, runtime, or test) that has
-been available for at least ten years.
+New release distributions in the Perl toolchain will support the last ten
+years of perl releases. They can support perl versions released even earlier, 
+but they won't require a perl that has not been available for less then ten years.
 
 As a special one-time exception, the minimum perl requirement on these
 distributions will not move past v5.16.0 until July 2024, when Red Hat
